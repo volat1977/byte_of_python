@@ -8,4 +8,4 @@ def total(initial=5, *numbers, **keywords):
         print(count)
     return count
 
-print(total(10, 10, 1, 2, 3, vegetables=50, fruits=100))
+print(total(10, 10, 1, 2, 3,  vegetables=50, fruits=100))
