@@ -1,0 +1,14 @@
+true
+false
+==
+
+
+if <condition>:
+    <positiv>
+else:
+    <negative>
+
+
+for 
+
+while

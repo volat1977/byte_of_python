@@ -1,0 +1,27 @@
+sudo apt-get install python3-pip
+sudo pip3 install virtualenv
+
+создать папку
+mkdir  test
+cd  test
+python -m venv  lib
+
+activate virtual env
+
+source  lib/bin/activate
+
+deactivate python
+
+deactivate
+
+
+######################csv############################
+
+etst,32323,23232,,323
+2222,22222,23eed,23eewwe
+
+
+###############email#######################
+
+sendrgid
+mailchimp

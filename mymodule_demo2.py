@@ -1,4 +1,4 @@
-from module import sayhi, __version__
+python3from module import sayhi, __version__
 
 sayhi()
 
