@@ -1,0 +1,10 @@
+{
+  "prop1": "test value",
+  "prop2": 123123,
+  "inner": {
+    "inner_prop1": 566
+  },
+  "array": [
+    1, 2, 3, 4, 5, 6
+  ]
+}
