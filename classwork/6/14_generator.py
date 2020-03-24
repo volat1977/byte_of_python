@@ -12,3 +12,4 @@ for i in odd_range(10):
 
 a = (x**2 for x in odd_range(10))
 
+print(list(a))
